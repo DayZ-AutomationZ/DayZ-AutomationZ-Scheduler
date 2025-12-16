@@ -90,7 +90,7 @@ See the wiki for screenshots.
 
 ### Weekend raids (Make sure to set times before server restarts so your files are actually loaded at for 
 example a 18:00 hour restart and you want raids to start 18:00 set the files to upload at least a minute before restart.)
-- Task: Raid ON -> Friday 18:00
+- Task: Raid ON -> Friday 17:59
 - Task: Raid OFF -> Sunday 23:59
 
 ### Daily loadouts
