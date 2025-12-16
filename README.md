@@ -1,4 +1,4 @@
-# AutomationZ Scheduler (FTP/FTPS)
+# AutomationZ Scheduler (FTP/FTPS) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 [![tasks.png](https://i.postimg.cc/gJ0Gk1ZY/tasks.png)](https://postimg.cc/t18KBSkf)
 AutomationZ Scheduler is a lightweight desktop app that **automatically uploads files to remote servers (FTP/FTPS) on a weekly schedule** (days + hour + minute).
 
