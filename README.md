@@ -135,5 +135,5 @@ consider supporting development with a donation.
 Donations are optional but appreciated and help
 keep the project alive and improving.
 
-Support development:
+Support development: https://ko-fi.com/dannyvandenbrande
 
