@@ -1,0 +1,40 @@
+{
+    "profiles": [
+        {
+            "name": "Example Profile",
+            "host": "ftp.yourhost.com",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/dayzstandalone"
+        },
+        {
+            "name": "Example Profile 1",
+            "host": "ftp.yourhost.com",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/dayzstandalone"
+        },
+        {
+            "name": "Example Profile 2",
+            "host": "ftp.yourhost.com",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/dayzstandalone"
+        },
+        {
+            "name": "Example Profile 3",
+            "host": "ftp.yourhost.com",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/dayzstandalone"
+        }
+    ]
+}
