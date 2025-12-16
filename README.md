@@ -1,5 +1,5 @@
 # AutomationZ Scheduler (FTP/FTPS)
-
+[![tasks.png](https://i.postimg.cc/gJ0Gk1ZY/tasks.png)](https://postimg.cc/t18KBSkf)
 AutomationZ Scheduler is a lightweight desktop app that **automatically uploads files to remote servers (FTP/FTPS) on a weekly schedule** (days + hour + minute).
 
 It was built for DayZ server owners who need things like **weekend raid switches**, **daily loadout rotations**, and **event config changes** to happen *even when they are offline* — but it also works for **websites, VPS configs, and any FTP-based workflow**.
