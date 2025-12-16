@@ -64,12 +64,7 @@ A Task ties it all together:
 ---
 
 ## Screenshots
-
-- Dashboard: `assets/screenshots/dashboard.png`
-- Tasks: `assets/screenshots/tasks.png`
-- Profiles: `assets/screenshots/profiles.png`
-- Mappings: `assets/screenshots/mappings.png`
-- Settings: `assets/screenshots/settings.png`
+See the wiki for screenshots.
 
 ---
 
