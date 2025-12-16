@@ -111,14 +111,6 @@ Schedule different `messages.xml` or Expansion notification configs depending on
 
 ---
 
-## License
-Pick a license that matches your goal:
-- **MIT**: simplest and most permissive (recommended for adoption)
-- **GPLv3**: forces derivatives to remain open-source
-- **Apache-2.0**: permissive + explicit patent terms
-
-Most small utility tools like this use **MIT**.
-
 ---
 
 ## Credits
