@@ -282,8 +282,16 @@ class App(tk.Tk):
     "- Game servers: raid schedules, event configs, loot rotations\n"
     "- Websites: page or layout changes on specific days\n"
     "- Any server where files must change automatically at set times\n\n"
+    "DayZ AutomationZ Scheduler is free and open-source software.\n\n"
+"If this tool helps you automate server tasks, save time,\n"
+"or manage multiple servers more easily,\n"
+"consider supporting development with a donation.\n\n"
+"Donations are optional, but appreciated and help\n"
+"support ongoing development and improvements.\n\n"
+"Support link:\n"
+"https://ko-fi.com/dannyvandenbrande\n"
 
-    "Created by Danny van den Brande\n"
+    "Created by Danny van den Brande \n"
         )
         t = tk.Text(info, wrap="word", height=12)
         t.pack(fill="both", expand=True, padx=8, pady=8)
@@ -773,9 +781,15 @@ class App(tk.Tk):
         t = tk.Text(note, wrap="word", height=10)
         t.pack(fill="both", expand=True, padx=8, pady=8)
         t.insert("1.0",
-                 "• This app is designed to run 24/7 (or while you want automation).\n"
-                 "• It does NOT require any DayZ mod.\n"
-                 "• It uploads server files via FTP/FTPS using tasks you configure.\n")
+                 "Created by Danny van den Brande\n\n"
+"DayZ AutomationZ Scheduler is free and open-source software.\n\n"
+"If this tool helps you automate server tasks, save time,\n"
+"or manage multiple servers more easily,\n"
+"consider supporting development with a donation.\n\n"
+"Donations are optional, but appreciated and help\n"
+"support ongoing development and improvements.\n\n"
+"Support link:\n"
+"https://ko-fi.com/dannyvandenbrande\n")
         t.configure(state="disabled")
 
     def browse_presets(self):
