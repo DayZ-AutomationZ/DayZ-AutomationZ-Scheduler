@@ -21,7 +21,7 @@ AutomationZ Scheduler removes that requirement by running tasks for you.
 
 ---
 
-## What it automates (FAQ-friendly)
+## What it automates
 
 **Is this really automation if I still configure it manually?**
 
