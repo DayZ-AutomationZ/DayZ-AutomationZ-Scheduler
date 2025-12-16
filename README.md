@@ -88,12 +88,13 @@ See the wiki for screenshots.
 
 ## Typical DayZ examples
 
-### Weekend raids
+### Weekend raids (Make sure to set times before server restarts so your files are actually loaded at for 
+example a 18:00 hour restart and you want raids to start 18:00 set the files to upload at least a minute before restart.)
 - Task: Raid ON -> Friday 18:00
 - Task: Raid OFF -> Sunday 23:59
 
 ### Daily loadouts
-- Task: Loadout Monday -> Monday 00:00
+- Task: Loadout Monday -> Monday 23:59 (set 1 minute before restart in order for the files to load the new loadout.)
 - Task: Loadout Tuesday -> Tuesday 00:00
 - ...
 
