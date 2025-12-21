@@ -113,17 +113,37 @@ Schedule different `messages.xml` or Expansion notification configs depending on
 
 ---
 
-## Credits
-DayZ AutomationZ Scheduler
-Created by Danny van den Brande
+---
+🧩 Part of AutomationZ Control Center
+This tool is part of the AutomationZ Admin Toolkit:
 
-This project is developed in free time and provided
-completely free of charge.
+- AutomationZ Uploader
+- AutomationZ Scheduler
+- AutomationZ Server Backup Scheduler
+- AutomationZ Server Health
+- AutomationZ Config Diff
+- AutomationZ Admin Orchestrator
+- AutomationZ Log Cleanup Scheduler
 
-If AutomationZ helps you manage your servers,
-saves you time, or replaces manual work,
-consider supporting development with a donation.
+Together they form a complete server administration solution.
 
+### 💚 Support the project
+
+AutomationZ tools are built for server owners by a server owner.  
+If these tools save you time or help your community, consider supporting development.
+
+☕ Ko-fi: https://ko-fi.com/dannyvandenbrande  
+💬 Discord: https://discord.gg/6g8EPES3BP  
+
+Created by **Danny van den Brande**  
+DayZ AutomationZ
+
+
+Part of the **AutomationZ** project  
+Built to reduce admin workload and remove unnecessary manual server management.
+
+If this tool saves you time or stress, consider supporting development.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 Donations are optional but appreciated and help
 keep the project alive and improving.
 
